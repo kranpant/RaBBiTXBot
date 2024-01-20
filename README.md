@@ -53,8 +53,7 @@
 >    we will provide docs soon..
 
 ## Credits 💖
-- [Shiva](https://t.me/lmshivaexe)
-- [Pratham](https://t.me/notrealgeek)
+- [Shiva Mishra](https://t.me/lmshivaexe)
 
 ## Support / Updates
 
