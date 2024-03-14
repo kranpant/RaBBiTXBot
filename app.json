@@ -2,7 +2,7 @@
     "name": "RaBBiTX UserBot",
     "description": "RaBBItX Userbot is most advance and stable userbot on telegram || based on pyrogram || deploy and enjoy !!",
     "keywords": ["pyrogram", "RaBBITXUserBot", "Imshivaexe", "UserBot"],
-    "repository": "https://github.com/Imshivaexe/RaBBiTUserBot",
+    "repository": "https://github.com/kranpant/RaBBiTXBot",
   "stack": "container",
     "env": {
         "API_ID": {
